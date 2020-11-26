@@ -1,3 +1,3 @@
 ## Welcome to this blog about my Raku experiences
 
-[C Raku run; run Raku, run](https://frithnanth.github.io/20201020.md)
+[A matter of tests](https://frithnanth.github.io/posts/001.md)
